@@ -7,7 +7,7 @@ import annotations.Service;
 public class SimpleService {
 
     @Init
-    private void initService() {
+    public void initService() {
         System.out.println("SimpleService - initService");
     }
 
