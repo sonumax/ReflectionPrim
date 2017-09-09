@@ -1,3 +1,5 @@
+package model;
+
 public class ServiceHelper {
 
     private Object service;
